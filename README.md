@@ -1,2 +1,3 @@
-# test-badge-repo
 Testing GitHub achievement badges
+
+First commit for badge testing.
